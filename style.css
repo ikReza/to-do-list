@@ -1,0 +1,19 @@
+body {
+  background-color: rgb(172, 181, 197);
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  width: auto;
+  padding: 10px;
+  transform: translateX(80%);
+  width: 40%;
+}
+
+.check {
+  display: flex;
+  align-items: center;
+  padding: 2px;
+  border: groove;
+}
